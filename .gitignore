@@ -71,5 +71,4 @@ tmp/
 .sass-cache/
 *.bak*
 ## Whippet dependencies
-/wp-content/plugins/akismet
-/wp-content/plugins/advanced-custom-fields-pro
+/wp-content/themes/twentytwentythree

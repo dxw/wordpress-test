@@ -1,9 +1,13 @@
 {
-    "src": {
-        "plugins": "git@github.com:dxw-wordpress-plugins/"
-    },
-    "plugins": [
-        {"name": "akismet"},
-        {"name": "advanced-custom-fields-pro"}
-    ]
+  "src": {
+  },
+  "plugins": [ 
+  ],
+  "themes": [
+    {
+      "name": "twentytwentythree",
+      "ref": "trunk",
+      "src": "git@github.com:WordPress/twentytwentythree"
+    }
+  ]
 }
